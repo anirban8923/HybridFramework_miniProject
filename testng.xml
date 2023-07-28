@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="DemoGuru Internet banking">
+
+<listeners>
+        <listener class-name="Utilities.Reporting"></listener>
+
+</listeners>
+   
+   
+   
+    <test  name="Banking Application Test">
+
+
+        <parameter name="browser" value="chrome"></parameter>
+
+           <classes>
+
+              <class name="TestCases.LoginTest_001"></class>
+              <!-- <class name="TestCases.LoginDDTTest_002"></class>-->
+              <!-- <class name="TestCases.AddCustomerTest_003"></class>-->
+
+         </classes>
+
+
+    </test>
+
+
+</suite>

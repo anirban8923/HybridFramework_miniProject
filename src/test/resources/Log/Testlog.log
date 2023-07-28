@@ -1,0 +1,691 @@
+2023-07-27 01:56:07 INFO  eBanking:196-onStart method
+2023-07-27 01:56:25 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 01:56:32 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 01:56:34 INFO  eBanking:21-Username entered
+2023-07-27 01:56:35 INFO  eBanking:23-Password entered
+2023-07-27 01:56:37 INFO  eBanking:25-Submit button is clicked
+2023-07-27 01:56:40 INFO  eBanking:34-Adding New Customer
+2023-07-27 01:56:40 INFO  eBanking:36-Providing customer details
+2023-07-27 01:56:53 INFO  eBanking:229-onTestFailure method
+2023-07-27 01:56:53 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 01:56:54 INFO  eBanking:281-onFinish method
+2023-07-27 02:02:08 INFO  eBanking:196-onStart method
+2023-07-27 02:02:12 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:02:18 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:02:18 INFO  eBanking:21-Username entered
+2023-07-27 02:02:19 INFO  eBanking:23-Password entered
+2023-07-27 02:02:20 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:02:23 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:02:23 INFO  eBanking:36-Providing customer details
+2023-07-27 02:02:33 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:02:33 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:02:34 INFO  eBanking:281-onFinish method
+2023-07-27 02:03:31 INFO  eBanking:196-onStart method
+2023-07-27 02:03:35 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:03:42 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:03:42 INFO  eBanking:21-Username entered
+2023-07-27 02:03:42 INFO  eBanking:23-Password entered
+2023-07-27 02:03:45 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:03:48 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:03:48 INFO  eBanking:36-Providing customer details
+2023-07-27 02:03:58 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:03:58 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:03:58 INFO  eBanking:281-onFinish method
+2023-07-27 02:04:37 INFO  eBanking:196-onStart method
+2023-07-27 02:04:40 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:04:47 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:04:47 INFO  eBanking:21-Username entered
+2023-07-27 02:04:47 INFO  eBanking:23-Password entered
+2023-07-27 02:04:48 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:04:48 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:04:49 INFO  eBanking:281-onFinish method
+2023-07-27 02:05:21 INFO  eBanking:196-onStart method
+2023-07-27 02:05:24 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:05:29 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:05:29 INFO  eBanking:21-Username entered
+2023-07-27 02:05:29 INFO  eBanking:23-Password entered
+2023-07-27 02:05:31 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:05:34 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:05:34 INFO  eBanking:36-Providing customer details
+2023-07-27 02:05:43 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:05:43 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:05:44 INFO  eBanking:281-onFinish method
+2023-07-27 02:10:04 INFO  eBanking:196-onStart method
+2023-07-27 02:10:08 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:10:14 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:10:14 INFO  eBanking:21-Username entered
+2023-07-27 02:10:15 INFO  eBanking:23-Password entered
+2023-07-27 02:10:16 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:10:19 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:10:19 INFO  eBanking:36-Providing customer details
+2023-07-27 02:10:29 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:10:29 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:10:29 INFO  eBanking:281-onFinish method
+2023-07-27 02:13:31 INFO  eBanking:196-onStart method
+2023-07-27 02:13:34 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:13:41 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:13:42 INFO  eBanking:21-Username entered
+2023-07-27 02:13:42 INFO  eBanking:23-Password entered
+2023-07-27 02:13:43 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:13:47 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:13:47 INFO  eBanking:36-Providing customer details
+2023-07-27 02:14:01 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:14:01 INFO  eBanking:66-test case success 
+2023-07-27 02:14:01 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:14:02 INFO  eBanking:281-onFinish method
+2023-07-27 02:15:38 INFO  eBanking:196-onStart method
+2023-07-27 02:15:42 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:15:49 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:15:49 INFO  eBanking:21-Username entered
+2023-07-27 02:15:49 INFO  eBanking:23-Password entered
+2023-07-27 02:15:50 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:15:54 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:15:54 INFO  eBanking:36-Providing customer details
+2023-07-27 02:16:08 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:16:08 INFO  eBanking:66-test case success 
+2023-07-27 02:16:09 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:16:09 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:16:09 INFO  eBanking:281-onFinish method
+2023-07-27 02:17:40 INFO  eBanking:196-onStart method
+2023-07-27 02:17:44 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:17:51 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:17:51 INFO  eBanking:21-Username entered
+2023-07-27 02:17:51 INFO  eBanking:23-Password entered
+2023-07-27 02:17:53 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:17:56 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:17:56 INFO  eBanking:36-Providing customer details
+2023-07-27 02:18:10 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:18:10 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:18:10 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:18:10 INFO  eBanking:281-onFinish method
+2023-07-27 02:19:15 INFO  eBanking:196-onStart method
+2023-07-27 02:19:19 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:19:26 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:19:26 INFO  eBanking:21-Username entered
+2023-07-27 02:19:27 INFO  eBanking:23-Password entered
+2023-07-27 02:19:29 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:19:32 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:19:32 INFO  eBanking:36-Providing customer details
+2023-07-27 02:19:46 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:19:46 INFO  eBanking:66-test case success 
+2023-07-27 02:19:46 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:19:46 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:19:47 INFO  eBanking:281-onFinish method
+2023-07-27 02:21:39 INFO  eBanking:196-onStart method
+2023-07-27 02:21:42 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:21:50 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:21:50 INFO  eBanking:21-Username entered
+2023-07-27 02:21:50 INFO  eBanking:23-Password entered
+2023-07-27 02:21:52 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:21:55 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:21:55 INFO  eBanking:36-Providing customer details
+2023-07-27 02:22:11 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:22:11 INFO  eBanking:66-test case success 
+2023-07-27 02:22:11 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:22:11 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:22:11 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:22:11 INFO  eBanking:281-onFinish method
+2023-07-27 02:25:19 INFO  eBanking:196-onStart method
+2023-07-27 02:25:23 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:25:29 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:25:30 INFO  eBanking:21-Username entered
+2023-07-27 02:25:30 INFO  eBanking:23-Password entered
+2023-07-27 02:25:31 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:25:34 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:25:34 INFO  eBanking:36-Providing customer details
+2023-07-27 02:25:49 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:25:49 INFO  eBanking:66-test case success 
+2023-07-27 02:25:49 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:25:49 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:27:34 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:27:35 INFO  eBanking:281-onFinish method
+2023-07-27 02:28:28 INFO  eBanking:196-onStart method
+2023-07-27 02:28:32 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:28:38 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:28:38 INFO  eBanking:21-Username entered
+2023-07-27 02:28:38 INFO  eBanking:23-Password entered
+2023-07-27 02:28:40 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:28:44 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:28:44 INFO  eBanking:36-Providing customer details
+2023-07-27 02:28:57 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:28:57 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:28:57 INFO  eBanking:75-test case failed 
+2023-07-27 02:28:57 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:28:57 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:28:58 INFO  eBanking:281-onFinish method
+2023-07-27 02:29:57 INFO  eBanking:196-onStart method
+2023-07-27 02:30:00 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:30:08 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:30:08 INFO  eBanking:21-Username entered
+2023-07-27 02:30:08 INFO  eBanking:23-Password entered
+2023-07-27 02:30:11 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:30:14 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:30:14 INFO  eBanking:36-Providing customer details
+2023-07-27 02:30:29 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:30:29 INFO  eBanking:66-test case success 
+2023-07-27 02:30:30 INFO  eBanking:109-ScreenShot is captured
+2023-07-27 02:30:30 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:30:30 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:30:30 INFO  eBanking:281-onFinish method
+2023-07-27 02:32:07 INFO  eBanking:196-onStart method
+2023-07-27 02:32:10 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:32:17 INFO  eBanking:18-TC_001
+2023-07-27 02:32:17 INFO  eBanking:19-URL is opened
+2023-07-27 02:32:17 INFO  eBanking:24-UserName is entered
+2023-07-27 02:32:17 INFO  eBanking:27-Password is entered
+2023-07-27 02:32:18 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:32:18 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:32:20 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:35:32 INFO  eBanking:196-onStart method
+2023-07-27 02:35:37 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:36:00 INFO  eBanking:18-TC_001
+2023-07-27 02:36:00 INFO  eBanking:19-URL is opened
+2023-07-27 02:36:01 INFO  eBanking:24-UserName is entered
+2023-07-27 02:36:01 INFO  eBanking:27-Password is entered
+2023-07-27 02:36:02 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 02:36:03 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:36:03 INFO  eBanking:40-Login Test passed
+2023-07-27 02:36:03 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 02:36:03 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:36:03 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:36:05 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:36:17 INFO  eBanking:20-user name provided 
+2023-07-27 02:36:17 INFO  eBanking:22-password provided 
+2023-07-27 02:36:22 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:36:25 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:36:25 INFO  eBanking:42- login passed
+2023-07-27 02:36:32 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:36:32 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:36:33 INFO  eBanking:20-user name provided 
+2023-07-27 02:36:33 INFO  eBanking:22-password provided 
+2023-07-27 02:36:33 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:36:38 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:36:38 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:36:39 INFO  eBanking:20-user name provided 
+2023-07-27 02:36:39 INFO  eBanking:22-password provided 
+2023-07-27 02:36:39 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:36:44 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:36:44 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:36:45 INFO  eBanking:20-user name provided 
+2023-07-27 02:36:45 INFO  eBanking:22-password provided 
+2023-07-27 02:36:46 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:36:50 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:36:50 INFO  eBanking:42- login passed
+2023-07-27 02:36:57 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:36:57 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:36:58 INFO  eBanking:20-user name provided 
+2023-07-27 02:36:58 INFO  eBanking:22-password provided 
+2023-07-27 02:37:00 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:37:05 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:37:05 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:37:08 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:37:15 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:37:15 INFO  eBanking:21-Username entered
+2023-07-27 02:37:15 INFO  eBanking:23-Password entered
+2023-07-27 02:37:16 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:37:16 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:37:16 INFO  eBanking:281-onFinish method
+2023-07-27 02:40:09 INFO  eBanking:196-onStart method
+2023-07-27 02:40:14 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:40:20 INFO  eBanking:18-TC_001
+2023-07-27 02:40:20 INFO  eBanking:19-URL is opened
+2023-07-27 02:40:20 INFO  eBanking:24-UserName is entered
+2023-07-27 02:40:20 INFO  eBanking:27-Password is entered
+2023-07-27 02:40:21 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 02:40:22 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:40:22 INFO  eBanking:40-Login Test passed
+2023-07-27 02:40:22 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 02:40:22 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:40:22 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:40:24 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:40:33 INFO  eBanking:20-user name provided 
+2023-07-27 02:40:33 INFO  eBanking:22-password provided 
+2023-07-27 02:40:35 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:40:38 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:40:38 INFO  eBanking:42- login passed
+2023-07-27 02:40:44 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:40:44 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:40:44 INFO  eBanking:20-user name provided 
+2023-07-27 02:40:44 INFO  eBanking:22-password provided 
+2023-07-27 02:40:45 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:40:49 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:40:49 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:40:50 INFO  eBanking:20-user name provided 
+2023-07-27 02:40:50 INFO  eBanking:22-password provided 
+2023-07-27 02:40:50 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:40:57 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:40:57 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:40:57 INFO  eBanking:20-user name provided 
+2023-07-27 02:40:57 INFO  eBanking:22-password provided 
+2023-07-27 02:40:59 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:41:03 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:41:03 INFO  eBanking:42- login passed
+2023-07-27 02:41:09 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:41:09 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:41:09 INFO  eBanking:20-user name provided 
+2023-07-27 02:41:10 INFO  eBanking:22-password provided 
+2023-07-27 02:41:10 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:41:15 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:41:15 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:41:17 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:41:23 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:41:23 INFO  eBanking:21-Username entered
+2023-07-27 02:41:24 INFO  eBanking:23-Password entered
+2023-07-27 02:41:25 INFO  eBanking:25-Submit button is clicked
+2023-07-27 02:41:29 INFO  eBanking:34-Adding New Customer
+2023-07-27 02:41:29 INFO  eBanking:36-Providing customer details
+2023-07-27 02:41:45 INFO  eBanking:61-validation started .....!!!
+2023-07-27 02:41:45 INFO  eBanking:66-test case success 
+2023-07-27 02:41:45 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:41:45 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:41:45 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:41:45 INFO  eBanking:281-onFinish method
+2023-07-27 02:45:00 INFO  eBanking:196-onStart method
+2023-07-27 02:45:04 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:45:11 INFO  eBanking:18-TC_001
+2023-07-27 02:45:11 INFO  eBanking:19-URL is opened
+2023-07-27 02:45:11 INFO  eBanking:24-UserName is entered
+2023-07-27 02:45:11 INFO  eBanking:27-Password is entered
+2023-07-27 02:45:13 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:45:13 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:45:14 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:45:35 INFO  eBanking:196-onStart method
+2023-07-27 02:45:39 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:45:45 INFO  eBanking:18-TC_001
+2023-07-27 02:45:45 INFO  eBanking:19-URL is opened
+2023-07-27 02:45:46 INFO  eBanking:24-UserName is entered
+2023-07-27 02:45:46 INFO  eBanking:27-Password is entered
+2023-07-27 02:45:47 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 02:45:48 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:45:48 INFO  eBanking:40-Login Test passed
+2023-07-27 02:45:48 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 02:45:48 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:45:48 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:45:49 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:45:57 INFO  eBanking:20-user name provided 
+2023-07-27 02:45:57 INFO  eBanking:22-password provided 
+2023-07-27 02:46:01 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:46:04 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:46:04 INFO  eBanking:42- login passed
+2023-07-27 02:46:11 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:46:11 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:46:11 INFO  eBanking:20-user name provided 
+2023-07-27 02:46:11 INFO  eBanking:22-password provided 
+2023-07-27 02:46:12 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:46:19 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:46:19 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:46:19 INFO  eBanking:20-user name provided 
+2023-07-27 02:46:19 INFO  eBanking:22-password provided 
+2023-07-27 02:46:21 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:46:26 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:46:26 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:46:26 INFO  eBanking:20-user name provided 
+2023-07-27 02:46:26 INFO  eBanking:22-password provided 
+2023-07-27 02:46:27 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:46:31 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:46:31 INFO  eBanking:42- login passed
+2023-07-27 02:46:37 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:46:37 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:46:37 INFO  eBanking:20-user name provided 
+2023-07-27 02:46:37 INFO  eBanking:22-password provided 
+2023-07-27 02:46:38 INFO  eBanking:24-submit button is clicked 
+2023-07-27 02:46:43 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:46:43 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 02:46:44 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:46:52 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:46:52 INFO  eBanking:21-Username entered
+2023-07-27 02:46:52 INFO  eBanking:23-Password entered
+2023-07-27 02:46:53 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:46:53 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:46:54 INFO  eBanking:281-onFinish method
+2023-07-27 02:56:02 INFO  eBanking:196-onStart method
+2023-07-27 02:56:05 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:56:12 INFO  eBanking:18-TC_001
+2023-07-27 02:56:12 INFO  eBanking:19-URL is opened
+2023-07-27 02:56:12 INFO  eBanking:24-UserName is entered
+2023-07-27 02:56:12 INFO  eBanking:27-Password is entered
+2023-07-27 02:56:13 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 02:56:14 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 02:56:14 INFO  eBanking:40-Login Test passed
+2023-07-27 02:56:14 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 02:56:14 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:56:14 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 02:56:15 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:56:24 INFO  eBanking:26-user name provided 
+2023-07-27 02:56:24 INFO  eBanking:28-password provided 
+2023-07-27 02:56:26 INFO  eBanking:30-submit button is clicked 
+2023-07-27 02:56:29 INFO  eBanking:65- login passed
+2023-07-27 02:56:35 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:56:35 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:56:35 INFO  eBanking:26-user name provided 
+2023-07-27 02:56:36 INFO  eBanking:28-password provided 
+2023-07-27 02:56:36 INFO  eBanking:30-submit button is clicked 
+2023-07-27 02:56:41 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:56:41 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:56:41 INFO  eBanking:26-user name provided 
+2023-07-27 02:56:41 INFO  eBanking:28-password provided 
+2023-07-27 02:56:42 INFO  eBanking:30-submit button is clicked 
+2023-07-27 02:56:48 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:56:48 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:56:48 INFO  eBanking:26-user name provided 
+2023-07-27 02:56:48 INFO  eBanking:28-password provided 
+2023-07-27 02:56:50 INFO  eBanking:30-submit button is clicked 
+2023-07-27 02:56:53 INFO  eBanking:65- login passed
+2023-07-27 02:56:59 INFO  eBanking:207-onTestSuccess method
+2023-07-27 02:56:59 INFO  eBanking:220-Screenshot does not exists
+2023-07-27 02:57:00 INFO  eBanking:26-user name provided 
+2023-07-27 02:57:00 INFO  eBanking:28-password provided 
+2023-07-27 02:57:00 INFO  eBanking:30-submit button is clicked 
+2023-07-27 02:57:05 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:57:05 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:57:07 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 02:57:14 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 02:57:14 INFO  eBanking:21-Username entered
+2023-07-27 02:57:14 INFO  eBanking:23-Password entered
+2023-07-27 02:57:15 INFO  eBanking:229-onTestFailure method
+2023-07-27 02:57:15 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 02:57:15 INFO  eBanking:281-onFinish method
+2023-07-27 03:04:19 INFO  eBanking:196-onStart method
+2023-07-27 03:04:22 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 03:04:29 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 03:04:29 INFO  eBanking:21-Username entered
+2023-07-27 03:04:30 INFO  eBanking:23-Password entered
+2023-07-27 03:04:31 INFO  eBanking:25-Submit button is clicked
+2023-07-27 03:04:34 INFO  eBanking:34-Adding New Customer
+2023-07-27 03:04:34 INFO  eBanking:36-Providing customer details
+2023-07-27 03:04:50 INFO  eBanking:61-validation started .....!!!
+2023-07-27 03:04:50 INFO  eBanking:66-test case success 
+2023-07-27 03:04:50 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 03:04:50 INFO  eBanking:207-onTestSuccess method
+2023-07-27 03:04:50 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 03:04:52 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 03:05:00 INFO  eBanking:26-user name provided 
+2023-07-27 03:05:01 INFO  eBanking:28-password provided 
+2023-07-27 03:05:01 INFO  eBanking:30-submit button is clicked 
+2023-07-27 03:05:05 INFO  eBanking:229-onTestFailure method
+2023-07-27 03:05:05 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 03:05:05 INFO  eBanking:26-user name provided 
+2023-07-27 03:05:06 INFO  eBanking:28-password provided 
+2023-07-27 03:05:06 INFO  eBanking:30-submit button is clicked 
+2023-07-27 03:05:11 INFO  eBanking:229-onTestFailure method
+2023-07-27 03:05:11 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 03:05:11 INFO  eBanking:26-user name provided 
+2023-07-27 03:05:12 INFO  eBanking:28-password provided 
+2023-07-27 03:05:12 INFO  eBanking:30-submit button is clicked 
+2023-07-27 03:05:17 INFO  eBanking:229-onTestFailure method
+2023-07-27 03:05:17 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 03:05:18 INFO  eBanking:281-onFinish method
+2023-07-27 22:39:04 INFO  eBanking:196-onStart method
+2023-07-27 22:39:23 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:39:33 INFO  eBanking:18-TC_001
+2023-07-27 22:39:33 INFO  eBanking:19-URL is opened
+2023-07-27 22:39:34 INFO  eBanking:24-UserName is entered
+2023-07-27 22:39:34 INFO  eBanking:27-Password is entered
+2023-07-27 22:39:37 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 22:39:38 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 22:39:38 INFO  eBanking:40-Login Test passed
+2023-07-27 22:39:38 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 22:39:38 INFO  eBanking:207-onTestSuccess method
+2023-07-27 22:39:38 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 22:39:41 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:39:51 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 22:39:51 INFO  eBanking:21-Username entered
+2023-07-27 22:39:51 INFO  eBanking:23-Password entered
+2023-07-27 22:39:54 INFO  eBanking:229-onTestFailure method
+2023-07-27 22:39:54 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 22:39:55 INFO  eBanking:281-onFinish method
+2023-07-27 22:41:07 INFO  eBanking:196-onStart method
+2023-07-27 22:41:11 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:41:49 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 22:41:50 INFO  eBanking:21-Username entered
+2023-07-27 22:41:50 INFO  eBanking:23-Password entered
+2023-07-27 22:42:27 INFO  eBanking:25-Submit button is clicked
+2023-07-27 22:42:30 INFO  eBanking:34-Adding New Customer
+2023-07-27 22:42:30 INFO  eBanking:36-Providing customer details
+2023-07-27 22:43:07 INFO  eBanking:61-validation started .....!!!
+2023-07-27 22:43:07 INFO  eBanking:66-test case success 
+2023-07-27 22:43:07 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 22:43:07 INFO  eBanking:207-onTestSuccess method
+2023-07-27 22:43:07 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 22:43:10 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:43:29 INFO  eBanking:26-user name provided 
+2023-07-27 22:43:29 INFO  eBanking:28-password provided 
+2023-07-27 22:43:32 INFO  eBanking:30-submit button is clicked 
+2023-07-27 22:43:38 INFO  eBanking:229-onTestFailure method
+2023-07-27 22:43:38 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 22:43:38 INFO  eBanking:26-user name provided 
+2023-07-27 22:43:38 INFO  eBanking:28-password provided 
+2023-07-27 22:43:41 INFO  eBanking:30-submit button is clicked 
+2023-07-27 22:43:47 INFO  eBanking:229-onTestFailure method
+2023-07-27 22:43:47 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 22:43:48 INFO  eBanking:26-user name provided 
+2023-07-27 22:43:48 INFO  eBanking:28-password provided 
+2023-07-27 22:43:51 INFO  eBanking:30-submit button is clicked 
+2023-07-27 22:43:59 INFO  eBanking:229-onTestFailure method
+2023-07-27 22:43:59 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 22:44:00 INFO  eBanking:281-onFinish method
+2023-07-27 22:46:43 INFO  eBanking:196-onStart method
+2023-07-27 22:46:47 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:46:56 INFO  eBanking:18-TC_001
+2023-07-27 22:46:56 INFO  eBanking:19-URL is opened
+2023-07-27 22:46:56 INFO  eBanking:24-UserName is entered
+2023-07-27 22:46:56 INFO  eBanking:27-Password is entered
+2023-07-27 22:46:58 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 22:46:59 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 22:46:59 INFO  eBanking:40-Login Test passed
+2023-07-27 22:46:59 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 22:46:59 INFO  eBanking:207-onTestSuccess method
+2023-07-27 22:46:59 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 22:47:01 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 22:47:11 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 22:47:11 INFO  eBanking:21-Username entered
+2023-07-27 22:47:11 INFO  eBanking:23-Password entered
+2023-07-27 22:47:15 INFO  eBanking:25-Submit button is clicked
+2023-07-27 22:47:19 INFO  eBanking:34-Adding New Customer
+2023-07-27 22:47:19 INFO  eBanking:36-Providing customer details
+2023-07-27 22:47:37 INFO  eBanking:61-validation started .....!!!
+2023-07-27 22:47:37 INFO  eBanking:66-test case success 
+2023-07-27 22:47:37 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 22:47:37 INFO  eBanking:207-onTestSuccess method
+2023-07-27 22:47:37 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 22:47:37 INFO  eBanking:281-onFinish method
+2023-07-27 23:01:23 INFO  eBanking:196-onStart method
+2023-07-27 23:01:27 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:01:36 INFO  eBanking:18-TC_001
+2023-07-27 23:01:36 INFO  eBanking:19-URL is opened
+2023-07-27 23:01:36 INFO  eBanking:24-UserName is entered
+2023-07-27 23:01:36 INFO  eBanking:27-Password is entered
+2023-07-27 23:01:38 INFO  eBanking:31-Submit Button is clicked
+2023-07-27 23:01:38 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 23:01:38 INFO  eBanking:40-Login Test passed
+2023-07-27 23:01:38 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-27 23:01:38 INFO  eBanking:207-onTestSuccess method
+2023-07-27 23:01:38 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 23:01:41 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:01:48 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:01:48 INFO  eBanking:21-Username entered
+2023-07-27 23:01:48 INFO  eBanking:23-Password entered
+2023-07-27 23:01:50 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:01:53 INFO  eBanking:34-Adding New Customer
+2023-07-27 23:01:53 INFO  eBanking:36-Providing customer details
+2023-07-27 23:02:07 INFO  eBanking:61-validation started .....!!!
+2023-07-27 23:02:07 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:02:07 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 23:02:07 INFO  eBanking:281-onFinish method
+2023-07-27 23:02:40 INFO  eBanking:196-onStart method
+2023-07-27 23:02:43 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:02:51 INFO  eBanking:18-TC_001
+2023-07-27 23:02:51 INFO  eBanking:19-URL is opened
+2023-07-27 23:02:51 INFO  eBanking:24-UserName is entered
+2023-07-27 23:02:52 INFO  eBanking:27-Password is entered
+2023-07-27 23:02:53 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:02:53 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-27 23:02:54 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:03:00 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:03:00 INFO  eBanking:21-Username entered
+2023-07-27 23:03:00 INFO  eBanking:23-Password entered
+2023-07-27 23:03:02 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:03:05 INFO  eBanking:34-Adding New Customer
+2023-07-27 23:03:05 INFO  eBanking:36-Providing customer details
+2023-07-27 23:03:21 INFO  eBanking:61-validation started .....!!!
+2023-07-27 23:03:21 INFO  eBanking:66-test case success 
+2023-07-27 23:03:21 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 23:03:21 INFO  eBanking:207-onTestSuccess method
+2023-07-27 23:03:21 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 23:03:21 INFO  eBanking:281-onFinish method
+2023-07-27 23:05:18 INFO  eBanking:196-onStart method
+2023-07-27 23:05:22 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:05:30 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:05:30 INFO  eBanking:21-Username entered
+2023-07-27 23:05:31 INFO  eBanking:23-Password entered
+2023-07-27 23:05:32 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:05:32 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:05:32 INFO  eBanking:281-onFinish method
+2023-07-27 23:06:04 INFO  eBanking:196-onStart method
+2023-07-27 23:06:07 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:06:15 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:06:15 INFO  eBanking:21-Username entered
+2023-07-27 23:06:15 INFO  eBanking:23-Password entered
+2023-07-27 23:06:16 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:06:20 INFO  eBanking:34-Adding New Customer
+2023-07-27 23:06:20 INFO  eBanking:36-Providing customer details
+2023-07-27 23:06:30 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:06:30 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:06:30 INFO  eBanking:281-onFinish method
+2023-07-27 23:08:42 INFO  eBanking:196-onStart method
+2023-07-27 23:08:46 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:08:54 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:08:54 INFO  eBanking:21-Username entered
+2023-07-27 23:08:54 INFO  eBanking:23-Password entered
+2023-07-27 23:08:56 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:08:59 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:08:59 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:08:59 INFO  eBanking:281-onFinish method
+2023-07-27 23:09:14 INFO  eBanking:196-onStart method
+2023-07-27 23:09:18 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:09:24 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:09:25 INFO  eBanking:21-Username entered
+2023-07-27 23:09:25 INFO  eBanking:23-Password entered
+2023-07-27 23:09:27 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:09:30 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:09:30 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:09:31 INFO  eBanking:281-onFinish method
+2023-07-27 23:10:21 INFO  eBanking:196-onStart method
+2023-07-27 23:10:25 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:10:35 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:10:35 INFO  eBanking:21-Username entered
+2023-07-27 23:10:36 INFO  eBanking:23-Password entered
+2023-07-27 23:10:38 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:10:41 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:10:41 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:10:42 INFO  eBanking:281-onFinish method
+2023-07-27 23:11:52 INFO  eBanking:196-onStart method
+2023-07-27 23:11:55 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:12:02 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:12:02 INFO  eBanking:21-Username entered
+2023-07-27 23:12:03 INFO  eBanking:23-Password entered
+2023-07-27 23:12:04 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:12:11 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:12:11 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:12:12 INFO  eBanking:281-onFinish method
+2023-07-27 23:14:06 INFO  eBanking:196-onStart method
+2023-07-27 23:14:09 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:14:15 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:14:16 INFO  eBanking:21-Username entered
+2023-07-27 23:14:16 INFO  eBanking:23-Password entered
+2023-07-27 23:14:17 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:14:23 INFO  eBanking:37-Adding New Customer
+2023-07-27 23:14:23 INFO  eBanking:39-Providing customer details
+2023-07-27 23:14:36 INFO  eBanking:64-validation started .....!!!
+2023-07-27 23:14:36 INFO  eBanking:69-test case success 
+2023-07-27 23:14:36 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 23:14:36 INFO  eBanking:207-onTestSuccess method
+2023-07-27 23:14:36 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 23:14:37 INFO  eBanking:281-onFinish method
+2023-07-27 23:43:24 INFO  eBanking:196-onStart method
+2023-07-27 23:43:34 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:43:42 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:43:43 INFO  eBanking:21-Username entered
+2023-07-27 23:43:43 INFO  eBanking:23-Password entered
+2023-07-27 23:43:46 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:43:52 INFO  eBanking:37-Adding New Customer
+2023-07-27 23:43:52 INFO  eBanking:39-Providing customer details
+2023-07-27 23:44:08 INFO  eBanking:64-validation started .....!!!
+2023-07-27 23:44:09 INFO  eBanking:229-onTestFailure method
+2023-07-27 23:44:09 INFO  eBanking:246-Screenshot file does not exists
+2023-07-27 23:44:09 INFO  eBanking:281-onFinish method
+2023-07-27 23:44:38 INFO  eBanking:196-onStart method
+2023-07-27 23:44:41 INFO  eBanking:58-Using Chrome Driver
+2023-07-27 23:44:49 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-27 23:44:49 INFO  eBanking:21-Username entered
+2023-07-27 23:44:50 INFO  eBanking:23-Password entered
+2023-07-27 23:44:52 INFO  eBanking:25-Submit button is clicked
+2023-07-27 23:44:58 INFO  eBanking:37-Adding New Customer
+2023-07-27 23:44:58 INFO  eBanking:39-Providing customer details
+2023-07-27 23:45:11 INFO  eBanking:64-validation started .....!!!
+2023-07-27 23:45:11 INFO  eBanking:69-test case success 
+2023-07-27 23:45:11 INFO  eBanking:110-ScreenShot is captured
+2023-07-27 23:45:11 INFO  eBanking:207-onTestSuccess method
+2023-07-27 23:45:11 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-27 23:45:12 INFO  eBanking:281-onFinish method
+2023-07-28 01:36:20 INFO  eBanking:196-onStart method
+2023-07-28 01:36:41 INFO  eBanking:58-Using Chrome Driver
+2023-07-28 01:36:48 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-28 01:36:48 INFO  eBanking:21-Username entered
+2023-07-28 01:36:49 INFO  eBanking:23-Password entered
+2023-07-28 01:36:50 INFO  eBanking:25-Submit button is clicked
+2023-07-28 01:36:57 INFO  eBanking:37-Adding New Customer
+2023-07-28 01:36:57 INFO  eBanking:39-Providing customer details
+2023-07-28 01:37:07 INFO  eBanking:229-onTestFailure method
+2023-07-28 01:37:07 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-28 01:37:08 INFO  eBanking:281-onFinish method
+2023-07-28 01:39:47 INFO  eBanking:196-onStart method
+2023-07-28 01:39:56 INFO  eBanking:58-Using Chrome Driver
+2023-07-28 01:40:02 INFO  eBanking:18-Test Case Name class TestCases.AddCustomerTest_003
+2023-07-28 01:40:02 INFO  eBanking:21-Username entered
+2023-07-28 01:40:02 INFO  eBanking:23-Password entered
+2023-07-28 01:40:05 INFO  eBanking:25-Submit button is clicked
+2023-07-28 01:40:11 INFO  eBanking:37-Adding New Customer
+2023-07-28 01:40:11 INFO  eBanking:39-Providing customer details
+2023-07-28 01:40:21 INFO  eBanking:229-onTestFailure method
+2023-07-28 01:40:21 INFO  eBanking:242-Screenshot taken on test case failure and attatched to extent report
+2023-07-28 01:40:22 INFO  eBanking:281-onFinish method
+2023-07-28 01:42:15 INFO  eBanking:196-onStart method
+2023-07-28 01:42:22 INFO  eBanking:58-Using Chrome Driver
+2023-07-28 01:42:28 INFO  eBanking:18-TC_001
+2023-07-28 01:42:28 INFO  eBanking:19-URL is opened
+2023-07-28 01:42:28 INFO  eBanking:24-UserName is entered
+2023-07-28 01:42:28 INFO  eBanking:27-Password is entered
+2023-07-28 01:42:29 INFO  eBanking:31-Submit Button is clicked
+2023-07-28 01:42:29 INFO  eBanking:110-ScreenShot is captured
+2023-07-28 01:42:29 INFO  eBanking:40-Login Test passed
+2023-07-28 01:42:29 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-28 01:42:30 INFO  eBanking:207-onTestSuccess method
+2023-07-28 01:42:30 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-28 01:42:30 INFO  eBanking:281-onFinish method
+2023-07-28 01:42:44 INFO  eBanking:196-onStart method
+2023-07-28 01:42:49 INFO  eBanking:58-Using Chrome Driver
+2023-07-28 01:42:54 INFO  eBanking:18-TC_001
+2023-07-28 01:42:54 INFO  eBanking:19-URL is opened
+2023-07-28 01:42:54 INFO  eBanking:24-UserName is entered
+2023-07-28 01:42:54 INFO  eBanking:27-Password is entered
+2023-07-28 01:42:56 INFO  eBanking:31-Submit Button is clicked
+2023-07-28 01:42:57 INFO  eBanking:110-ScreenShot is captured
+2023-07-28 01:42:57 INFO  eBanking:40-Login Test passed
+2023-07-28 01:42:57 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-28 01:42:57 INFO  eBanking:207-onTestSuccess method
+2023-07-28 01:42:57 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-28 01:42:57 INFO  eBanking:281-onFinish method
+2023-07-28 02:35:26 INFO  eBanking:196-onStart method
+2023-07-28 02:35:40 INFO  eBanking:58-Using Chrome Driver
+2023-07-28 02:35:50 INFO  eBanking:18-TC_001
+2023-07-28 02:35:50 INFO  eBanking:19-URL is opened
+2023-07-28 02:35:52 INFO  eBanking:24-UserName is entered
+2023-07-28 02:35:52 INFO  eBanking:27-Password is entered
+2023-07-28 02:35:55 INFO  eBanking:31-Submit Button is clicked
+2023-07-28 02:35:56 INFO  eBanking:110-ScreenShot is captured
+2023-07-28 02:35:56 INFO  eBanking:40-Login Test passed
+2023-07-28 02:35:56 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-28 02:35:56 INFO  eBanking:207-onTestSuccess method
+2023-07-28 02:35:56 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-28 02:35:57 INFO  eBanking:281-onFinish method
