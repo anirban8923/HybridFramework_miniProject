@@ -689,3 +689,16 @@
 2023-07-28 02:35:56 INFO  eBanking:207-onTestSuccess method
 2023-07-28 02:35:56 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
 2023-07-28 02:35:57 INFO  eBanking:281-onFinish method
+2023-07-29 03:19:14 INFO  eBanking:196-onStart method
+2023-07-29 03:19:35 INFO  eBanking:58-Using Chrome Driver
+2023-07-29 03:19:42 INFO  eBanking:18-TC_001
+2023-07-29 03:19:42 INFO  eBanking:19-URL is opened
+2023-07-29 03:19:43 INFO  eBanking:24-UserName is entered
+2023-07-29 03:19:43 INFO  eBanking:27-Password is entered
+2023-07-29 03:19:45 INFO  eBanking:31-Submit Button is clicked
+2023-07-29 03:19:46 INFO  eBanking:110-ScreenShot is captured
+2023-07-29 03:19:46 INFO  eBanking:40-Login Test passed
+2023-07-29 03:19:46 INFO  eBanking:41-The Title of the Page Assertion passed
+2023-07-29 03:19:46 INFO  eBanking:207-onTestSuccess method
+2023-07-29 03:19:46 INFO  eBanking:216-ScreenShot taken on Successfull of Test Case and attatched to Extent Report
+2023-07-29 03:19:47 INFO  eBanking:281-onFinish method
